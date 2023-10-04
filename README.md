@@ -1,4 +1,3 @@
-0x04. Files manager
-===================
+# Files Manager Api
 
--   By Atser Godfrey Tilenenge
+A working file management api using redis and mongodb
